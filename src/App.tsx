@@ -40,6 +40,9 @@ function App() {
 
   return (
     <>
+      <h1 className="text-2xl sm:text-3xl font-bold text-center mb-8">
+        ニュース簡易化アプリ
+      </h1>
       <input
         type="text"
         value={inputText}
